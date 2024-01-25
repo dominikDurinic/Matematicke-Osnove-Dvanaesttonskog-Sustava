@@ -1,4 +1,4 @@
-# Matematicke osnove dvanaesttonskog sustava
+# Matematičke osnove dvanaesttonskog sustava
 
 ![splash](https://github.com/dominikDurinic/Matematicke-Osnove-Dvanaesttonskog-Sustava/assets/117011826/07f77a60-0a1c-4c00-82c1-b493d09a98af)
 
